@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8253a5d0-c1dd-41c8-9ae3-16227cbd3da8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/items.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/middlewares.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/pipelines.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/spiders/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro_files/spiders/prj_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scrapy.cfg" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="files.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/pipelines/files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1357">
+              <caret line="222" column="38" lean-forward="false" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#70#1" expanded="false" />
+                <element signature="e#954#989#0" expanded="false" />
+                <element signature="e#1025#2270#0" expanded="false" />
+                <element signature="e#1062#1248#0" expanded="false" />
+                <element signature="e#1328#1514#0" expanded="false" />
+                <element signature="e#1561#1878#0" expanded="false" />
+                <element signature="e#1930#2013#0" expanded="false" />
+                <element signature="e#2067#2270#0" expanded="false" />
+                <element signature="e#2172#2270#0" expanded="false" />
+                <element signature="e#2306#6816#0" expanded="false" />
+                <element signature="e#2506#2556#0" expanded="false" />
+                <element signature="e#2595#3138#0" expanded="false" />
+                <element signature="e#2669#2927#0" expanded="false" />
+                <element signature="e#2954#3042#0" expanded="false" />
+                <element signature="e#3185#3817#0" expanded="false" />
+                <element signature="e#3223#3752#0" expanded="false" />
+                <element signature="e#3260#3427#0" expanded="false" />
+                <element signature="e#3462#3677#0" expanded="false" />
+                <element signature="e#3859#4117#0" expanded="false" />
+                <element signature="e#3859#3918#0" expanded="false" />
+                <element signature="e#4162#4498#0" expanded="false" />
+                <element signature="e#4243#4382#0" expanded="false" />
+                <element signature="e#4409#4498#0" expanded="false" />
+                <element signature="e#4578#5657#0" expanded="false" />
+                <element signature="e#4719#5180#0" expanded="false" />
+                <element signature="e#5207#5657#0" expanded="false" />
+                <element signature="e#5308#5414#0" expanded="false" />
+                <element signature="e#5719#6816#0" expanded="false" />
+                <element signature="e#5889#6484#0" expanded="false" />
+                <element signature="e#6567#6795#0" expanded="false" />
+                <element signature="e#6654#6740#0" expanded="false" />
+                <element signature="e#8980#9303#0" expanded="false" />
+                <element signature="e#9666#10629#0" expanded="false" />
+                <element signature="e#10177#10282#0" expanded="false" />
+                <element signature="e#10300#10387#0" expanded="false" />
+                <element signature="e#11184#11585#0" expanded="false" />
+                <element signature="e#11259#11391#0" expanded="false" />
+                <element signature="e#11409#11524#0" expanded="false" />
+                <element signature="e#11760#12116#0" expanded="false" />
+                <element signature="e#11792#11903#0" expanded="false" />
+                <element signature="e#11921#12005#0" expanded="false" />
+                <element signature="e#12160#12468#0" expanded="false" />
+                <element signature="e#12192#12300#0" expanded="false" />
+                <element signature="e#12578#12672#0" expanded="false" />
+                <element signature="e#12868#12997#0" expanded="false" />
+                <element signature="e#13047#13366#0" expanded="false" />
+                <element signature="e#13079#13192#0" expanded="false" />
+                <element signature="e#13412#13725#0" expanded="false" />
+                <element signature="e#13442#13549#0" expanded="false" />
+                <element signature="e#13849#13995#0" expanded="false" />
+                <element signature="e#14081#14145#0" expanded="false" />
+                <element signature="e#14493#14656#0" expanded="false" />
+                <element signature="e#14937#15081#0" expanded="false" />
+                <element signature="e#15283#15316#0" expanded="false" />
+                <element signature="e#15480#15525#0" expanded="false" />
+                <element signature="e#15871#15897#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_files/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+              <folding>
+                <element signature="e#193#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/pyunpack/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1426">
+              <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="os.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/os.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3105">
+              <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-248075507/posix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12305">
+              <caret line="535" column="4" lean-forward="false" selection-start-line="535" selection-start-column="4" selection-end-line="535" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_files/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prj_info.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pro_files/spiders/prj_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tarfile.py" pinned="false" current-in-tab="false">
+        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50807">
+              <caret line="2219" column="43" lean-forward="false" selection-start-line="2219" selection-start-column="43" selection-end-line="2219" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro_files/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2783">
+              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pro_files/items.py" />
+        <option value="$PROJECT_DIR$/pro_files/settings.py" />
+        <option value="$PROJECT_DIR$/pro_files/pipelines.py" />
+        <option value="$PROJECT_DIR$/pro_files/spiders/prj_info.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1280" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pro_files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pro_files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_files" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pro_files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro_files" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_files" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8253a5d0-c1dd-41c8-9ae3-16227cbd3da8" name="Default" comment="" />
+      <created>1567172085465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567172085465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16986156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/pipelines/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="222" column="38" lean-forward="false" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#70#1" expanded="false" />
+            <element signature="e#954#989#0" expanded="false" />
+            <element signature="e#1025#2270#0" expanded="false" />
+            <element signature="e#1062#1248#0" expanded="false" />
+            <element signature="e#1328#1514#0" expanded="false" />
+            <element signature="e#1561#1878#0" expanded="false" />
+            <element signature="e#1930#2013#0" expanded="false" />
+            <element signature="e#2067#2270#0" expanded="false" />
+            <element signature="e#2172#2270#0" expanded="false" />
+            <element signature="e#2306#6816#0" expanded="false" />
+            <element signature="e#2506#2556#0" expanded="false" />
+            <element signature="e#2595#3138#0" expanded="false" />
+            <element signature="e#2669#2927#0" expanded="false" />
+            <element signature="e#2954#3042#0" expanded="false" />
+            <element signature="e#3185#3817#0" expanded="false" />
+            <element signature="e#3223#3752#0" expanded="false" />
+            <element signature="e#3260#3427#0" expanded="false" />
+            <element signature="e#3462#3677#0" expanded="false" />
+            <element signature="e#3859#4117#0" expanded="false" />
+            <element signature="e#3859#3918#0" expanded="false" />
+            <element signature="e#4162#4498#0" expanded="false" />
+            <element signature="e#4243#4382#0" expanded="false" />
+            <element signature="e#4409#4498#0" expanded="false" />
+            <element signature="e#4578#5657#0" expanded="false" />
+            <element signature="e#4719#5180#0" expanded="false" />
+            <element signature="e#5207#5657#0" expanded="false" />
+            <element signature="e#5308#5414#0" expanded="false" />
+            <element signature="e#5719#6816#0" expanded="false" />
+            <element signature="e#5889#6484#0" expanded="false" />
+            <element signature="e#6567#6795#0" expanded="false" />
+            <element signature="e#6654#6740#0" expanded="false" />
+            <element signature="e#8980#9303#0" expanded="false" />
+            <element signature="e#9666#10629#0" expanded="false" />
+            <element signature="e#10177#10282#0" expanded="false" />
+            <element signature="e#10300#10387#0" expanded="false" />
+            <element signature="e#11184#11585#0" expanded="false" />
+            <element signature="e#11259#11391#0" expanded="false" />
+            <element signature="e#11409#11524#0" expanded="false" />
+            <element signature="e#11760#12116#0" expanded="false" />
+            <element signature="e#11792#11903#0" expanded="false" />
+            <element signature="e#11921#12005#0" expanded="false" />
+            <element signature="e#12160#12468#0" expanded="false" />
+            <element signature="e#12192#12300#0" expanded="false" />
+            <element signature="e#12578#12672#0" expanded="false" />
+            <element signature="e#12868#12997#0" expanded="false" />
+            <element signature="e#13047#13366#0" expanded="false" />
+            <element signature="e#13079#13192#0" expanded="false" />
+            <element signature="e#13412#13725#0" expanded="false" />
+            <element signature="e#13442#13549#0" expanded="false" />
+            <element signature="e#13849#13995#0" expanded="false" />
+            <element signature="e#14081#14145#0" expanded="false" />
+            <element signature="e#14493#14656#0" expanded="false" />
+            <element signature="e#14937#15081#0" expanded="false" />
+            <element signature="e#15283#15316#0" expanded="false" />
+            <element signature="e#15480#15525#0" expanded="false" />
+            <element signature="e#15871#15897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/pyunpack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-248075507/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12305">
+          <caret line="535" column="4" lean-forward="false" selection-start-line="535" selection-start-column="4" selection-end-line="535" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51037">
+          <caret line="2219" column="43" lean-forward="false" selection-start-line="2219" selection-start-column="43" selection-end-line="2219" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2783">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/spiders/prj_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/pipelines/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="222" column="38" lean-forward="false" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#70#1" expanded="false" />
+            <element signature="e#954#989#0" expanded="false" />
+            <element signature="e#1025#2270#0" expanded="false" />
+            <element signature="e#1062#1248#0" expanded="false" />
+            <element signature="e#1328#1514#0" expanded="false" />
+            <element signature="e#1561#1878#0" expanded="false" />
+            <element signature="e#1930#2013#0" expanded="false" />
+            <element signature="e#2067#2270#0" expanded="false" />
+            <element signature="e#2172#2270#0" expanded="false" />
+            <element signature="e#2306#6816#0" expanded="false" />
+            <element signature="e#2506#2556#0" expanded="false" />
+            <element signature="e#2595#3138#0" expanded="false" />
+            <element signature="e#2669#2927#0" expanded="false" />
+            <element signature="e#2954#3042#0" expanded="false" />
+            <element signature="e#3185#3817#0" expanded="false" />
+            <element signature="e#3223#3752#0" expanded="false" />
+            <element signature="e#3260#3427#0" expanded="false" />
+            <element signature="e#3462#3677#0" expanded="false" />
+            <element signature="e#3859#4117#0" expanded="false" />
+            <element signature="e#3859#3918#0" expanded="false" />
+            <element signature="e#4162#4498#0" expanded="false" />
+            <element signature="e#4243#4382#0" expanded="false" />
+            <element signature="e#4409#4498#0" expanded="false" />
+            <element signature="e#4578#5657#0" expanded="false" />
+            <element signature="e#4719#5180#0" expanded="false" />
+            <element signature="e#5207#5657#0" expanded="false" />
+            <element signature="e#5308#5414#0" expanded="false" />
+            <element signature="e#5719#6816#0" expanded="false" />
+            <element signature="e#5889#6484#0" expanded="false" />
+            <element signature="e#6567#6795#0" expanded="false" />
+            <element signature="e#6654#6740#0" expanded="false" />
+            <element signature="e#8980#9303#0" expanded="false" />
+            <element signature="e#9666#10629#0" expanded="false" />
+            <element signature="e#10177#10282#0" expanded="false" />
+            <element signature="e#10300#10387#0" expanded="false" />
+            <element signature="e#11184#11585#0" expanded="false" />
+            <element signature="e#11259#11391#0" expanded="false" />
+            <element signature="e#11409#11524#0" expanded="false" />
+            <element signature="e#11760#12116#0" expanded="false" />
+            <element signature="e#11792#11903#0" expanded="false" />
+            <element signature="e#11921#12005#0" expanded="false" />
+            <element signature="e#12160#12468#0" expanded="false" />
+            <element signature="e#12192#12300#0" expanded="false" />
+            <element signature="e#12578#12672#0" expanded="false" />
+            <element signature="e#12868#12997#0" expanded="false" />
+            <element signature="e#13047#13366#0" expanded="false" />
+            <element signature="e#13079#13192#0" expanded="false" />
+            <element signature="e#13412#13725#0" expanded="false" />
+            <element signature="e#13442#13549#0" expanded="false" />
+            <element signature="e#13849#13995#0" expanded="false" />
+            <element signature="e#14081#14145#0" expanded="false" />
+            <element signature="e#14493#14656#0" expanded="false" />
+            <element signature="e#14937#15081#0" expanded="false" />
+            <element signature="e#15283#15316#0" expanded="false" />
+            <element signature="e#15480#15525#0" expanded="false" />
+            <element signature="e#15871#15897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/pyunpack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-248075507/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12305">
+          <caret line="535" column="4" lean-forward="false" selection-start-line="535" selection-start-column="4" selection-end-line="535" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51037">
+          <caret line="2219" column="43" lean-forward="false" selection-start-line="2219" selection-start-column="43" selection-end-line="2219" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2783">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/spiders/prj_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2461">
+          <caret line="114" column="0" lean-forward="true" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/commands/fetch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/utils/http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/utils/gz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="60" column="54" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/utils/ftp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/contrib/downloadermiddleware/decompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/downloadermiddlewares/decompression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/utils/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tempfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="341" column="4" lean-forward="false" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tarfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50807">
+          <caret line="2219" column="43" lean-forward="false" selection-start-line="2219" selection-start-column="43" selection-end-line="2219" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-248075507/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12305">
+          <caret line="535" column="4" lean-forward="false" selection-start-line="535" selection-start-column="4" selection-end-line="535" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/pyunpack/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="67" column="8" lean-forward="false" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2783">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/.scrap/lib/python2.7/site-packages/scrapy/pipelines/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="222" column="38" lean-forward="false" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#70#1" expanded="false" />
+            <element signature="e#954#989#0" expanded="false" />
+            <element signature="e#1025#2270#0" expanded="false" />
+            <element signature="e#1062#1248#0" expanded="false" />
+            <element signature="e#1328#1514#0" expanded="false" />
+            <element signature="e#1561#1878#0" expanded="false" />
+            <element signature="e#1930#2013#0" expanded="false" />
+            <element signature="e#2067#2270#0" expanded="false" />
+            <element signature="e#2172#2270#0" expanded="false" />
+            <element signature="e#2306#6816#0" expanded="false" />
+            <element signature="e#2506#2556#0" expanded="false" />
+            <element signature="e#2595#3138#0" expanded="false" />
+            <element signature="e#2669#2927#0" expanded="false" />
+            <element signature="e#2954#3042#0" expanded="false" />
+            <element signature="e#3185#3817#0" expanded="false" />
+            <element signature="e#3223#3752#0" expanded="false" />
+            <element signature="e#3260#3427#0" expanded="false" />
+            <element signature="e#3462#3677#0" expanded="false" />
+            <element signature="e#3859#4117#0" expanded="false" />
+            <element signature="e#3859#3918#0" expanded="false" />
+            <element signature="e#4162#4498#0" expanded="false" />
+            <element signature="e#4243#4382#0" expanded="false" />
+            <element signature="e#4409#4498#0" expanded="false" />
+            <element signature="e#4578#5657#0" expanded="false" />
+            <element signature="e#4719#5180#0" expanded="false" />
+            <element signature="e#5207#5657#0" expanded="false" />
+            <element signature="e#5308#5414#0" expanded="false" />
+            <element signature="e#5719#6816#0" expanded="false" />
+            <element signature="e#5889#6484#0" expanded="false" />
+            <element signature="e#6567#6795#0" expanded="false" />
+            <element signature="e#6654#6740#0" expanded="false" />
+            <element signature="e#8980#9303#0" expanded="false" />
+            <element signature="e#9666#10629#0" expanded="false" />
+            <element signature="e#10177#10282#0" expanded="false" />
+            <element signature="e#10300#10387#0" expanded="false" />
+            <element signature="e#11184#11585#0" expanded="false" />
+            <element signature="e#11259#11391#0" expanded="false" />
+            <element signature="e#11409#11524#0" expanded="false" />
+            <element signature="e#11760#12116#0" expanded="false" />
+            <element signature="e#11792#11903#0" expanded="false" />
+            <element signature="e#11921#12005#0" expanded="false" />
+            <element signature="e#12160#12468#0" expanded="false" />
+            <element signature="e#12192#12300#0" expanded="false" />
+            <element signature="e#12578#12672#0" expanded="false" />
+            <element signature="e#12868#12997#0" expanded="false" />
+            <element signature="e#13047#13366#0" expanded="false" />
+            <element signature="e#13079#13192#0" expanded="false" />
+            <element signature="e#13412#13725#0" expanded="false" />
+            <element signature="e#13442#13549#0" expanded="false" />
+            <element signature="e#13849#13995#0" expanded="false" />
+            <element signature="e#14081#14145#0" expanded="false" />
+            <element signature="e#14493#14656#0" expanded="false" />
+            <element signature="e#14937#15081#0" expanded="false" />
+            <element signature="e#15283#15316#0" expanded="false" />
+            <element signature="e#15480#15525#0" expanded="false" />
+            <element signature="e#15871#15897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro_files/spiders/prj_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
