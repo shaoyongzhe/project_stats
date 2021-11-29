@@ -143,7 +143,7 @@ pytest==3.5.1
 pytest-django==3.2.1
 python-binary-memcached==0.26.1
 python-dateutil==2.7.0
-python-ldap==2.4.32
+python-ldap==3.4.0
 python-whois==0.6.7
 pytz==2018.3
 pyunpack==0.1.2
