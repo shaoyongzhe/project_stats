@@ -154,7 +154,7 @@ raven==6.1.0
 redis==2.10.6
 requests==2.18.4
 scandir==1.6
-Scrapy==1.4.0
+Scrapy==2.6.1
 service-identity==17.0.0
 shadowsocks==2.8.2
 simplegeneric==0.8.1
