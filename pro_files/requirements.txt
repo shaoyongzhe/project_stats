@@ -6,7 +6,7 @@ aliyun-python-sdk-sts==3.0.0
 amqp==2.3.2
 anyjson==0.3.3
 appnope==0.1.0
-arrow==0.12.1
+arrow==0.15.1
 asn1crypto==0.24.0
 astroid==1.4.9
 attrs==18.1.0
