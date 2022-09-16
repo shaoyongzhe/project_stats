@@ -85,7 +85,7 @@ linesman==0.3.2
 luhn==0.2.0
 lxml==4.1.1
 M2Crypto==0.26.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 marshmallow==2.15.0
 mns==1.1.4
